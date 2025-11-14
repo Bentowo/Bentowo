@@ -6,7 +6,5 @@ I am passionate about computers and especially about development since I was ver
 
 ### My works
 
-- 🔭 I'm currently working on **Minecraft Plugin**
-- 🌱 I’m currently learning **Java**
-
-### 📫 How to reach me
+- 🔭 I'm currently working on **My personal Portfolio**
+- 🌱 I’m currently learning **Web developement**
